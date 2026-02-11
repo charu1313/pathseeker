@@ -1,0 +1,9 @@
+--- User Roles ---
+ID: 1, Name: charu p, Role: mentor
+ID: 2, Name: vikkram, Role: student
+ID: 3, Name: divya, Role: mentor
+ID: 4, Name: loki, Role: student
+
+--- Career Moments ---
+ID: 1, Title: full stack, Status: 'Open', Author ID: 4, Author Role: student
+ID: 2, Title: full stack, Status: 'Open', Author ID: 2, Author Role: student
